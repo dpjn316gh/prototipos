@@ -1,0 +1,6 @@
+(unwatch all)
+(clear)
+(load definitions.clp)
+(load facts.clp)
+(load rules.clp)
+(reset)
